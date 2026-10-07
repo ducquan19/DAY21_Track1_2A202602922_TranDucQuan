@@ -2,7 +2,7 @@
 
 - Họ và tên: Trần Đức Quân
 - MSSV / mã học viên: 2A202602922
-- Lớp: L3A
+- Lớp: Track 1
 - Ngành đã chọn: HR / tuyển dụng
 
 ---
